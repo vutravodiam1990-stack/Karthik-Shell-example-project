@@ -1,5 +1,6 @@
 x=a+b
-#division
-#d=b/c
-#
-#New line
+add substraction
+#a=a-c
+>>>>>>> Karthik_hero
+
+#testmerge
