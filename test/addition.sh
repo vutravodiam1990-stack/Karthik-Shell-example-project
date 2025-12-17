@@ -1,3 +1,4 @@
 x=a+b
-#substraction
-x=f-c
+
+#merge test
+f=d-c
